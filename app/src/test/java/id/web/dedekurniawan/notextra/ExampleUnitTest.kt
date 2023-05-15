@@ -1,4 +1,4 @@
-package com.example.android_template
+package id.web.dedekurniawan.notextra
 
 import org.junit.Test
 
